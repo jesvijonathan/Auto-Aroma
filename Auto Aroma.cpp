@@ -15,7 +15,7 @@
 #include <sstream>
 
 #pragma warning(disable : 4996)
-
+//git sucks
 #define Title "Auto Aroma"
 #define Author "Jesvi Jonathan"
 #define Version "v0.6.1"
