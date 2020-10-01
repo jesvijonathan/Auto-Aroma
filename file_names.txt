@@ -1,0 +1,30 @@
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.sln
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.vcxproj
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.vcxproj.filters
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.vcxproj.user
+C:\Users\jesvi\source\repos\Auto Aroma\file_names.txt
+C:\Users\jesvi\source\repos\Auto Aroma\Header.h
+C:\Users\jesvi\source\repos\Auto Aroma\Output-Build.txt
+C:\Users\jesvi\source\repos\Auto Aroma\Output.txt
+C:\Users\jesvi\source\repos\Auto Aroma\.vs\Auto Aroma\v16\.suo
+C:\Users\jesvi\source\repos\Auto Aroma\.vs\Auto Aroma\v16\Browse.VC.db
+C:\Users\jesvi\source\repos\Auto Aroma\.vs\Auto Aroma\v16\Browse.VC.opendb
+C:\Users\jesvi\source\repos\Auto Aroma\.vs\Auto Aroma\v16\ipch\AutoPCH\24df15d854afd5b\MAIN.ipch
+C:\Users\jesvi\source\repos\Auto Aroma\.vs\Auto Aroma\v16\ipch\AutoPCH\44c10fdb8d2724a0\AUTO AROMA.ipch
+C:\Users\jesvi\source\repos\Auto Aroma\.vs\Auto Aroma\v16\ipch\AutoPCH\c5b168e64291d7d5\MAIN.ipch
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.exe
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.ilk
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.log
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.obj
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.pdb
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.vcxproj.FileListAbsolute.txt
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\vc142.idb
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\vc142.pdb
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.tlog\Auto Aroma.lastbuildstate
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.tlog\CL.command.1.tlog
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.tlog\CL.read.1.tlog
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.tlog\CL.write.1.tlog
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.tlog\link.command.1.tlog
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.tlog\link.read.1.tlog
+C:\Users\jesvi\source\repos\Auto Aroma\Debug\Auto Aroma.tlog\link.write.1.tlog

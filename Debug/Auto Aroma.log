@@ -1,0 +1,12 @@
+﻿  Auto Aroma.cpp
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(96,5): error C3861: 'SHGetKnownFolderPathA': identifier not found
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(703,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(771,57): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(969,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1037,57): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1236,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1301,57): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1531,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1596,57): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2714,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2741,35): warning C4018: '<': signed/unsigned mismatch

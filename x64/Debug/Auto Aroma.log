@@ -1,0 +1,70 @@
+﻿  Auto Aroma.cpp
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(981,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(989,49): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1008,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1049,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1057,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1251,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1259,49): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1278,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1319,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1327,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1523,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1531,49): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1550,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1588,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1596,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1826,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1834,49): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1853,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1891,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(1899,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2030,26): warning C4101: 'h': unreferenced local variable
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2111,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2119,49): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2134,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2142,49): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2681,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2747,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(2942,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(3141,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2395,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2406): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2406): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2386): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(2386): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(81): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\jesvi\source\repos\Auto Aroma\Auto Aroma.cpp(81): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  Auto Aroma.vcxproj -> C:\Users\jesvi\source\repos\Auto Aroma\x64\Debug\Auto Aroma.exe
